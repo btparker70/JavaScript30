@@ -9,3 +9,7 @@
   - sort takes an array and returns a new array with a different order
     - it returns 1 or -1, which changes the positon of the 2 items being compared
   - reduce is a way to solve problems such as adding up all the values from each element of an array
+5. flexbox stuff
+  - display:flex; this makes the children take up as much space as they need from left to right i think
+  - flex: 1; this makes the children take up an equal amount of space
+  -flex: 5: this means take 5x the amount of space you need
