@@ -13,3 +13,8 @@
   - display:flex; this makes the children take up as much space as they need from left to right i think
   - flex: 1; this makes the children take up an equal amount of space
   -flex: 5: this means take 5x the amount of space you need
+6. api fetch cities regex
+  - fetch is built into html now
+  - fetch returns a promise
+  - .then(data =>  cities.push(...data)) ADDING spread pushes each data item individually instead of one giant block
+  - good for filter, map array
