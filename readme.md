@@ -18,3 +18,9 @@
   - fetch returns a promise
   - .then(data =>  cities.push(...data)) ADDING spread pushes each data item individually instead of one giant block
   - good for filter, map array
+7. more array methods
+  - .some checks if there's 1 occurance of something and returns true/false
+  - .every checks if every item and return true/false
+  - .find is like .filter, but instead of returning a subset of the array it returns the first item it finds that matches
+  - inplicit returns!
+  - .findIndex finds where something is in an array
