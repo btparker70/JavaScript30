@@ -24,3 +24,5 @@
   - .find is like .filter, but instead of returning a subset of the array it returns the first item it finds that matches
   - inplicit returns!
   - .findIndex finds where something is in an array
+8. canvas stuff
+  - 
