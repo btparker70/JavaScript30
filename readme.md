@@ -25,4 +25,8 @@
   - inplicit returns!
   - .findIndex finds where something is in an array
 8. canvas stuff
-  - 
+9. inline commands
+  - console.war, error, info
+  - console.assert only runs if something is false
+  - console.group groups console logs
+  
