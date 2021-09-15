@@ -29,4 +29,5 @@
   - console.war, error, info
   - console.assert only runs if something is false
   - console.group groups console logs
-  
+  10. multiple checkboxes
+  - 
