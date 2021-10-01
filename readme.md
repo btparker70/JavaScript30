@@ -29,5 +29,9 @@
   - console.war, error, info
   - console.assert only runs if something is false
   - console.group groups console logs
-  10. multiple checkboxes
-  - 
+10. multiple checkboxes
+15. local storange event delegation
+  - by default, forms refresh the page once they are submitted
+    - stop this by e.preventDefault();
+  - forms also have a reset method that clears the fields
+    - this.reset();
