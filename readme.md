@@ -35,3 +35,5 @@
     - stop this by e.preventDefault();
   - forms also have a reset method that clears the fields
     - this.reset();
+  - localstorage only takes strings
+    - [object Object] is when something it getting an object but needs it to be a sstring
